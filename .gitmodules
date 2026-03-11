@@ -1,0 +1,9 @@
+[submodule "external/WHAM"]
+	path = external/WHAM
+	url = https://github.com/yohanshin/WHAM
+[submodule "external/humanplus"]
+	path = external/humanplus
+	url = https://github.com/MarkFzp/humanplus
+[submodule "external/robocup_demo"]
+	path = external/robocup_demo
+	url = https://github.com/BoosterRobotics/robocup_demo
